@@ -1,7 +1,7 @@
 {
-  "name": "starwars-names",
+  "name": "babynames",
   "version": "1.0.0",
-  "description": "Get random Star Wars names",
+  "description": "Get random babynames",
   "main": "dist/index.js",
   "scripts": {
     "prebuild": "rimraf dist",
@@ -16,21 +16,22 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kentcdodds/starwars-names.git"
+    "url": "git+https://github.com/cksachdev/babynames.git"
   },
   "keywords": [
     "random",
-    "star wars"
+    "baby",
+    "names"
   ],
   "files": [
     "dist"
   ],
-  "author": "Kent C. Dodds <kent@doddsfamily.us> (http://kentcdodds.com/)",
+  "author": "Chetan Sachdev <cksachdev@gmail.com> (http://chetansachdev.com/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kentcdodds/starwars-names/issues"
+    "url": "https://github.com/cksachdev/babynames/issues"
   },
-  "homepage": "https://github.com/kentcdodds/starwars-names#readme",
+  "homepage": "https://github.com/cksachdev/babynames#readme",
   "dependencies": {
     "unique-random-array": "1.0.0"
   },
