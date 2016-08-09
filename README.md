@@ -1,3 +1,3 @@
-# starwars-names
+# babynames
 
-For all your random Star Wars character needs
+For all your random Baby names
